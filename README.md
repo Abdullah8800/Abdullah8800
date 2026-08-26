@@ -1,16 +1,62 @@
-## Hi there 👋
+## 👋 عبدالله الحكمي | Abdullah Alhakami
 
-<!--
-**Abdullah8800/Abdullah8800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### مستشار حلول رقمية وأتمتة أعمال | Digital Solutions & Business Automation Consultant — 🇸🇦 السعودية
 
-Here are some ideas to get you started:
+أبني أنظمة وحلول تقنية جاهزة للإنتاج للشركات والجهات في السعودية والخليج: من أنظمة ERP وCRM المخصصة، إلى منصات SaaS، إلى أتمتة المبيعات والتشغيل بالذكاء الاصطناعي.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**25+ عامًا خبرة** في تقنية المعلومات، التسويق الرقمي، وأتمتة الأعمال.
+
+---
+
+### 🛠️ ماذا أبني (What I Build)
+
+**أنظمة ERP / CRM مخصصة**
+أنظمة نقل، محاسبة، وموارد بشرية مبنية على Laravel — صلاحيات أدوار (RBAC)، تقويم هجري/ميلادي، سجلات تدقيق (Audit Log) كاملة.
+
+**منصات SaaS متعددة المستأجرين**
+أنظمة إدارة تعليمية ومدرسية (Multi-tenant) مبنية على Laravel + PostgreSQL، جاهزة للتوسع التجاري.
+
+**أتمتة الأعمال والمبيعات بالذكاء الاصطناعي**
+وكلاء مبيعات على واتساب مدعومون بالذكاء الاصطناعي، وأنظمة أتمتة محتوى وتشغيل مبنية على n8n، متكاملة مع نماذج Claude وGemini.
+
+**تكاملات وأنظمة تشغيلية متخصصة**
+أتمتة نقاط بيع وماكينات ذاتية خدمة (Vending Automation)، مواقع وأنظمة مؤسسية لقطاعات حكومية وخاصة.
+
+---
+
+### 💼 نماذج من أعمال منجزة (Selected Work)
+
+> بعض الأنظمة أُنجزت لجهات حكومية وشركات خاصة بموجب اتفاقيات سرية، لذلك تُعرض هنا كدراسات حالة عامة دون كشف الكود المصدري أو تفاصيل العميل.
+
+- **نظام ERP لنقل العمرة** — إدارة النقل والمالية بصلاحيات متعددة المستويات وتقويم مزدوج (هجري/ميلادي)
+- **منصة SaaS لإدارة المدارس** — بنية متعددة المستأجرين، تجربة أولية إيجابية مع عدة مدارس خاصة
+- **وكيل مبيعات ذكاء اصطناعي عبر واتساب** — لقطاع B2B (مطاعم ومقاهي)، متوافق مع سياسات Meta
+- **أنظمة موارد بشرية مؤسسية** — لجهات حكومية وشبه حكومية
+- **منصة أتمتة ماكينات البيع الذاتي** — تنسيق وتشغيل عن بُعد
+
+---
+
+### 🧰 التقنيات (Tech Stack)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📬 هل تبحث عن نظام مخصص لمنشأتك؟
+
+أعمل مع الشركات والجهات في السعودية والخليج على تطوير أنظمة وحلول تقنية مخصصة تحل مشاكل تشغيلية حقيقية — من الفكرة إلى الإطلاق.
+
+📱 واتساب: [ضع رقم واتساب بزنس هنا]
+📧 البريد: [ضع البريد الإلكتروني هنا]
+🌐 الموقع: [ضع رابط الموقع أو صفحة الهبوط هنا]
+💼 لينكدإن: [ضع رابط لينكدإن هنا]
+
+---
+
+<sub>⭐ إذا أعجبك أي من مشاريعي المفتوحة أدناه، لا تتردد بمتابعتي أو التواصل معي لمناقشة مشروعك القادم.</sub>
