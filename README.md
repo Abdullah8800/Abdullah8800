@@ -80,7 +80,6 @@
 
 📱 واتساب: [+966 59 869 5303](https://wa.me/966598695303)
 📧 البريد: [hakkami800@gmail.com](mailto:hakkami800@gmail.com)
-🌐 الموقع: [ضع رابط الموقع أو صفحة الهبوط هنا]
 💼 لينكدإن: [Abdullah Alhakami](https://www.linkedin.com/in/abdullah-hakkami)
 
 ---
