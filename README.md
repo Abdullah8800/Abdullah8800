@@ -6,6 +6,8 @@
 
 **25+ عامًا خبرة** في تقنية المعلومات، التسويق الرقمي، وأتمتة الأعمال.
 
+> **In English:** Full Stack Developer and IT Consultant with 25+ years of experience and 85+ delivered systems. I build production-grade ERP, CRM and multi-tenant SaaS platforms in Laravel, .NET and Python, and automate business workflows with AI agents and n8n. Open to remote Full Stack and technical consulting roles.
+
 ---
 
 ### 🛠️ ماذا أبني (What I Build)
@@ -26,6 +28,14 @@
 
 ### 💼 نماذج من أعمال منجزة (Selected Work)
 
+**⭐ دراسات حالة مفصّلة (Featured Case Studies)**
+
+| المشروع | الوصف | التقنيات |
+|---|---|---|
+| [**AI Automation SaaS**](https://github.com/Abdullah8800/agentsaas-showcase) | منصة عربية متعددة المستأجرين: CRM، صندوق محادثات موحّد، وكلاء ذكاء اصطناعي بصلاحيات أدوات، محرك أتمتة داخلي، وتكامل واتساب بزنس — 266 اختبارًا آليًا | Laravel 12 · MySQL · Gemini / OpenAI · WhatsApp Cloud API |
+| [**Umrah & Transport ERP**](https://github.com/Abdullah8800/umrah-erp-showcase) | نظام تشغيلي لشركات العمرة والنقل يمنع المخالفات قبل وقوعها: حماية الجدولة، ماسح تجاوز الإقامة، فواتير ضريبية 15%، وقيم تنظيمية بدرجات يقين | Laravel 12 · Modular Monolith · Sanctum · RBAC |
+
+
 > بعض الأنظمة أُنجزت لجهات حكومية وشركات خاصة بموجب اتفاقيات سرية، لذلك تُعرض هنا كدراسات حالة عامة دون كشف الكود المصدري أو تفاصيل العميل.
 
 - **نظام ERP لنقل العمرة** — إدارة النقل والمالية بصلاحيات متعددة المستويات وتقويم مزدوج (هجري/ميلادي)
@@ -44,6 +54,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -67,6 +82,8 @@
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6C3EF4?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 **أدوات وتكاملات (Tools & Integrations)**
 
@@ -84,4 +101,4 @@
 
 ---
 
-<sub>⭐ إذا أعجبك أي من مشاريعي المفتوحة أدناه، لا تتردد بمتابعتي أو التواصل معي لمناقشة مشروعك القادم.</sub>
+<sub>⭐ الكود المصدري لدراسات الحالة متاح للمراجعة عند الطلب في المقابلات التقنية. تواصل معي لمناقشة مشروعك القادم.</sub>
